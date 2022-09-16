@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: sans-serif;
+}
+
+.btns {
+  display: flex;
+  gap: 6rem;
+  padding: 2rem;
+}
+
+button {
+  padding: 1rem 2rem;
+}
